@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrehman616" alt="abdurrehman616" /></a> </p>
 
-- 🔭 I’m currently working on **Book Shop Website**
+- 🔭 I’m currently working on **Book Shop Website and GoLang Prohram**
 
-- 🌱 I’m currently learning **Next Js/ Node Js/ MongoDb and Graphql**
+- 🌱 I’m currently learning **Next Js/ Node Js/ MongoDb/ Graphql and GoLang**
 
 - 💬 Ask me about **react, vue, next, graphql**
 
