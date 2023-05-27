@@ -1,26 +1,25 @@
 <h1 align="center">Hi 👋, I'm Abdur Rehman</h1>
-<h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
+<h3 align="center">Software developer with a passion for data science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrehman616&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrehman616" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrehman616" alt="abdurrehman616" /></a> </p>
 
-- 🔭 I’m currently working on **Book Shop Website and GoLang Prohram**
+- 🔭 I’m currently working on **Autobots Site for Cars Spare Parts on PPRN(Postgres, Prisma, React, Node)**
 
-- 🌱 I’m currently learning **Next Js/ Node Js/ MongoDb/ Graphql and GoLang**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **react, vue, next, graphql**
+- 💬 Ask me about **React, Next, Node, Golang, Python, Restful, Graphql**
 
 - 📫 How to reach me **abdurrehman6869@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/abdurrehman616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdurrehman616" height="30" width="40" /></a>
-<a href="https://twitter.com/@abdurrehmanbh11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abdurrehmanbh11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdurrehman616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdurrehman616" height="30" width="40" /></a>
+<a href="https://twitter.com/@abdurrehman6869" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aabdurrehman6869" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/theabdurrehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theabdurrehman" height="30" width="40" /></a>
 <a href="https://fb.com/abdurrehman61@yahoo.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdurrehman61@yahoo.com" height="30" width="40" /></a>
 <a href="https://instagram.com/abdurrehman61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdurrehman61" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gaming zone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gaming zone" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
