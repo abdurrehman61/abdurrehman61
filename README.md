@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@abdurrehman6869" target="blank"><img src="https://img.shields.io/twitter/follow/@abdurrehman6869?logo=twitter&style=for-the-badge" alt="@abdurrehman6869" /></a> </p>
 
-- 🔭 I’m currently working on **Autobots Site for Cars Spare Parts on PPRN(Postgres, Prisma, React, Node)**
+- 🔭 I’m currently working on **Autobots Site for Cars Spare Parts on PPRN(Postgres, Express, React, Node)**
 
 - 🌱 I’m currently learning **Data Science**
 
@@ -16,8 +16,6 @@
 - 💬 Ask me about **React, Next, Node, Golang, Python, Restful, Graphql**
 
 - 📫 How to reach me **abdurrehman6869@gmail.com**
-
-- 📄 Know about my experiences [https://app.hashlist.com/dashboard](https://app.hashlist.com/dashboard)
 
 - ⚡ Fun fact **I think I am a quick learner**
 
