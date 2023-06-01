@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@abdurrehman6869" target="blank"><img src="https://img.shields.io/twitter/follow/@abdurrehman6869?logo=twitter&style=for-the-badge" alt="@abdurrehman6869" /></a> </p>
 
-- 🔭 I’m currently working on **Autobots Site for Cars Spare Parts on PPRN(Postgres, Express, React, Node)**
+- 🔭 I’m currently working on **Autobots Site for Cars Spare Parts on PERN(Postgres, Express, React, Node)**
 
 - 🌱 I’m currently learning **Data Science**
 
