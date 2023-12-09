@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrehman616&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrehman616" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrehman616" alt="abdurrehman616" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@abdurrehman6869" target="blank"><img src="https://img.shields.io/twitter/follow/@abdurrehman6869?logo=twitter&style=for-the-badge" alt="@abdurrehman6869" /></a> </p>
 
 - 🔭 I’m currently working on **Autobots Site for Cars Spare Parts on PERN(Postgres, Express, React, Node)**
