@@ -2,7 +2,7 @@
 <h3 align="center">Software developer with a passion for learning Microsevices & AWS</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on:<br>      - Video E-commerce (This is a CRM. Working on Backend API - Golang)<br>      - ReelStar (This is a Video and Reel Uploader. Working on Backend API - Golang)<br>      - OrderFeed (This is an Online Food Delivery. Working on Backend API - Golang)<br>      - City Doctor (This is an Appointment App for Doctors. Working on the Front-End side - React JS )<br><br>🌱 I’m currently learning Golang, Microservices and AWS<br><br>📝 I regularly write articles on https://medium.com/@abdurrehman6869<br><br>💬 Ask me about React, Next, Node, Golang, Restful, Graphql<br><br>📫 How to reach me abdurrehman6869@gmail.com<br><br>⚡ Fun fact I think I am a quick learner
+I’m currently learning Golang, Microservices and AWS<br><br>📝 I regularly write articles on https://medium.com/@abdurrehman6869<br><br>💬 Ask me about React, Next, Node, Golang, Restful, Graphql<br><br>📫 How to reach me abdurrehman6869@gmail.com<br><br>⚡ Fun fact I think I am a quick learner
 
 
 ## 🌐 Socials:
